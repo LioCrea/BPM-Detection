@@ -29,11 +29,12 @@ Install dependencies:
 `
 
 ## File Structure
-`bpm_detection.py
+```
+bpm_detection.py
 README.md
 plots/
 └── waveform_spotify.png   # Example output
-`
+```
 
 ## Usage
 
