@@ -69,9 +69,10 @@ Example:
 `save_path = "plots/waveform_spotify.png"
 plot_waveform_spotify(y, sr, show_plots=False, save_path=save_path)`
 
-![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-1.png)
-![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-2.png)
-
+![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-3.png)
+> Estimated beats and BPM of _Headhunterz - Destiny_
+![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-4.png)
+> Estimated waveform of _Headhunterz - Destiny_
 
 ## Troubleshooting
 
