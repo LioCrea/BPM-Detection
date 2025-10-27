@@ -92,7 +92,7 @@ Easy to extend for:
 - Automatic PNG exports
 - Integration into Streamlit or Flask web apps
 
-## Example Output (Spotify Style)
+## Example Output 
 
 ![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-5.png)
 ![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-3.png)
