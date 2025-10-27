@@ -69,12 +69,6 @@ Example:
 `save_path = "plots/waveform_spotify.png"
 plot_waveform_spotify(y, sr, show_plots=False, save_path=save_path)`
 
-![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-3.png)
-_Estimated beats and BPM of Headhunterz - Destiny_
-
-![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-4.png)
-_Estimated waveform of Headhunterz - Destiny_ 
-
 ## Troubleshooting
 
 - Script doesn’t finish
@@ -99,3 +93,12 @@ Easy to extend for:
 - Integration into Streamlit or Flask web apps
 
 ## Example Output (Spotify Style)
+
+![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-5.png)
+![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-3.png)
+_Estimated beats and BPM of Headhunterz - Destiny_
+
+![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-4.png)
+_Estimated waveform of Headhunterz - Destiny_ 
+
+
