@@ -28,14 +28,6 @@ Install dependencies:
 `pip install librosa matplotlib numpy soundfile
 `
 
-## File Structure
-```
-bpm_detection.py
-README.md
-plots/
-└── waveform_spotify.png   # Example output
-```
-
 ## Usage
 
 1. Place your audio file (e.g. Saw of Olympus.mp3) in the same folder as the script.
