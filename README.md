@@ -95,4 +95,11 @@ _Estimated beats and BPM of Headhunterz - Destiny_
 ![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-4.png)
 _Estimated waveform of Headhunterz - Destiny_ 
 
+![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-6.png)
+![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-7.png)
+_Estimated beats and BPM of Ride On, from C.S. Armstrong_
+
+![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-8.png)
+_Estimated waveform of Ride On, from C.S. Armstrong_ 
+
 
