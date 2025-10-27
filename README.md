@@ -70,10 +70,10 @@ Example:
 plot_waveform_spotify(y, sr, show_plots=False, save_path=save_path)`
 
 ![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-3.png)
-<p style="text-align: center;"> _Estimated beats and BPM of Headhunterz - Destiny_ </p>
+_Estimated beats and BPM of Headhunterz - Destiny_
 
 ![Result](https://github.com/LioCrea/BPM-Detection/blob/main/picture-4.png)
-<p style="text-align: center;"> _Estimated waveform of Headhunterz - Destiny_ </p>
+_Estimated waveform of Headhunterz - Destiny_ 
 
 ## Troubleshooting
 
